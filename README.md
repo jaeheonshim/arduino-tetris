@@ -2,13 +2,11 @@
 
 ![Image of the project](./img/project.jpg)
 
-This is a simple project built using the Arduino Mega 2560. It features the game "Tetris" played on an 8x8 led display, with some game details on a 16x2 LCD display along with a Joystick for controlling the game. I originally had 4 buttons controlling gameplay, but then decided to use a joystick since I had one laying around. There is also a buzzer which emits a tone every time a row is cleared.
+This is a simple project built using the Arduino Mega 2560. It features the game "Tetris" played on an 8x8 led display, with some game details on a 16x2 LCD display along with a joystick for controlling the game. I originally had 4 buttons controlling gameplay, but then decided to use a joystick since I had one laying around. There is also a buzzer which emits a tone every time a row is cleared.
 
 This project took about a day to build, coding included. The project went through many iterations such as the addition of the 16x2 display and the replacement of the buttons with the joystick.
 
-While at first it seemed that 64 squares was too limited of a space to play Tetris, the gameplay actually turned out to be "all right". You always have to be on your feet because you only have so much space to work with within the game. If I had another LED matrix display I would have connected it, but unfortunately I do not. Here's a video of the gameplay:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fBtme0Q1pJU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+While at first it seemed that 64 squares was too limited of a space to play Tetris, the gameplay actually turned out to be "all right". You always have to be on your feet because you only have so much space to work with within the game. If I had another LED matrix display I would have connected it, but unfortunately I do not. Here's a video of the gameplay: [Youtube Video](https://www.youtube.com/watch?v=fBtme0Q1pJU)
 
 **Parts:**
 - 1x [Arduino Mega](https://store.arduino.cc/usa/mega-2560-r3)
